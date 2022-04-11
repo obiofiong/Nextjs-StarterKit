@@ -28,7 +28,7 @@ For example
 Make a clone of this project by using the command below
 
 ```bash
-    git clone
+    git clone https://github.com/obiofiong/Nextjs-StarterKit.git
 ```
 
 Then cd into the project directory and install all dependencies.
