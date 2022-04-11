@@ -60,7 +60,9 @@ You can start by editing the _index.js_ file in the pages folder to start your d
 ## Author
 
 Github link - https://github.com/obiofiong
+
 LinkedIn - https://www.linkedin.com/in/john-obiofiong
+
 Follow me on my social links.
 
-I am available to work on any project within my knowloedge scope.
+I am available to work on any project within my knowledge scope.
