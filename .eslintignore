@@ -1,0 +1,5 @@
+.next
+dist
+.gitignore
+/node_modules
+next.config.js
